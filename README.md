@@ -1,4 +1,4 @@
-# Dejan Pecevski, dejan@igi.tugraz.at
+Dejan Pecevski, dejan@igi.tugraz.at
 November, 2008
 
 This model contains the scripts in Python and other necessary files to reproduce the results reported in:
